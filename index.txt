@@ -386,3 +386,4 @@ Start of index.txt file
 2000-02-03 - Commit number 1
 2000-02-03 - Commit number 2
 2000-02-04 - Commit number 1
+2000-02-04 - Commit number 2
