@@ -560,3 +560,4 @@ Start of index.txt file
 2000-03-09 - Commit number 3
 2000-03-10 - Commit number 1
 2000-03-10 - Commit number 2
+2000-03-10 - Commit number 3
