@@ -1,3 +1,4 @@
 Start of index.txt file
 1999-11-20 - Commit number 1
 1999-11-20 - Commit number 2
+1999-11-20 - Commit number 3
